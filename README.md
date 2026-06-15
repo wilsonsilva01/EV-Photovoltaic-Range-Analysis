@@ -9,7 +9,7 @@ Authors
 
 Journal: IEEE Latin America Transactions
 
-Submission ID: [Insert Submission ID]
+Submission ID: 10327
 
 Repository Description
 
